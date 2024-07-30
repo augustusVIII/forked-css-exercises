@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+
+.class.proportioned{
+    width: 300px;
+    height: 300px;
+}
+
+.class.distorted{
+    width: 200px;
+    height: 400px;
+}
