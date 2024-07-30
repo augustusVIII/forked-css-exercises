@@ -1,0 +1,20 @@
+.really {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ordinary{
+    color: blue;
+    font-size: 36px;
+}
+
+.really.cooler{
+    font-size: 24px;
+
+}
+
+#another-ID{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
