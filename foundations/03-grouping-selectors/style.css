@@ -1,13 +1,14 @@
-.point{
+.one,
+.two{
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.point.one{
+.one{
     background-color: black;
     color: white;
 }
 
-.point.two{
+.two{
     background-color: yellow;
 }
